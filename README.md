@@ -1,7 +1,7 @@
 # Buy and Sell
 ## Task 
 	
-	  To design a website where one can buy and sell the old products
+    To design a website where one can buy and sell the old products
 
 ## Requirements
  
